@@ -1,3 +1,3 @@
 # rep_01
-Training in studying git.
-It's not so simple as it seemed at first sight.
+<p>Training in studying git.</p>
+<p>It's not so simple as it seemed at first sight.</p>
